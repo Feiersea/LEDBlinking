@@ -25,3 +25,4 @@ When p1 or p0 change their value the value of eq will then change after the prop
 Signal Declaration
 Outline: [data_type] [port_names];
 Example: wire p0, p1;
+vlsi point videos
